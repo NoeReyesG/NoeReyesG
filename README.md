@@ -1,6 +1,6 @@
  
 <h1 align="center">Hola 👋, mi nombre es Noé Reyes</h1>
-<h3 align="center">He decidido adentrarme al mundo de la programación. Tengo mi primer empleo como desarrollador Jr y estoy a unos meses de concluír una ingeniería e sistemas</h3>
+<h3 align="center">He decidido adentrarme al mundo de la programación. Tengo mi primer empleo como desarrollador Jr y estoy a unos meses de concluír una Ingeniería en Sistemas Computacionales</h3>
 <img align="right" alt="coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🌱 Actualmente estoy mejorando en **Go, Angular, MongoDB**
