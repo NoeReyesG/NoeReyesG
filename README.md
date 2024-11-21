@@ -1,9 +1,8 @@
  
 <h1 align="center">Hola 👋, mi nombre es Noé Reyes</h1>
-<h3 align="center">He decidido adentrarme al mundo de la programación. Tengo mi primer empleo como desarrollador Jr y estoy a unos meses de concluír una Ingeniería en Sistemas Computacionales</h3>
+<h3 align="center">Actualmente trabajo como desarrollador front-end para GS con React, aunque Angular sigue siendo mi Framework favorito :)</h3>
 <img align="right" alt="coding" width="280" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🌱 Actualmente estoy mejorando en **Go, Angular, MongoDB**
 
 - 📫 Me puedes contactar al correo **noe1513@gmail.com**
 
